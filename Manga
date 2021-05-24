@@ -1,6 +1,6 @@
 {
    "title":"Noragami",
-   "description":"The series follows a poor deity named Yato, who desires to become a famous god, and his adventures with a human girl named Hiyori, whose spirit frequently leaves her body, and Yukine, a young wandering spirit whom he adopts as his weapon.",
+   "description":"Yato is a minor god whose fantasy is to have a great deal of devotees loving him and going to him. Sadly, his fantasy is a long way from working out as expected since he doesn't have a solitary place of worship committed to him. To exacerbate the situation, the main accomplice he needed to help him take care of individuals' issues, had recently left the place of employment. His virtuous presence and fortunes very well might change when he unearths Iki Hiyori and spares her life; a deed which likewise abandons her in a significant difficulty so she is screwed over thanks to him until her issue gets determined. Together with Hiyori and his new accomplice weapon Yukine, Yato will do all that he can to pick up distinction, acknowledgment and quite possibly, one sanctuary committed to him, too.",
    "artist":"Adachitoka",
    "author":"Adachitoka",
    "cover":"https://images-na.ssl-images-amazon.com/images/I/51fFs6RzgKL._SX325_BO1,204,203,200_.jpg",
@@ -28,6 +28,14 @@
             "MangaFreak":"/proxy/api/imgur/chapter/MLdgsus/"
          },
          "last_updated":"1621825972"
+      },
+      "4":{
+         "title":"Some Divine Will",
+         "volume":"2",
+         "groups":{
+            "MangaFreak":"/proxy/api/imgur/chapter/sNqJyB2/"
+         },
+         "last_updated":"1621828377"
       }
    }
 }
