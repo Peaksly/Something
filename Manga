@@ -44,6 +44,14 @@
             "MangaFreak":"/proxy/api/imgur/chapter/sSjp3Ce/"
          },
          "last_updated":"1621841463"
-         }  
+      },  
+      "6":{
+         "title":"Scary Person",
+         "volume":"2",
+         "groups":{
+            "MangaFreak":"/proxy/api/imgur/chapter/24Qe4Z2/"
+         },
+         "last_updated":"1621841979"
+         }
    }
 }
