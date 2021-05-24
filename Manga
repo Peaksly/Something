@@ -52,6 +52,14 @@
             "MangaFreak":"/proxy/api/imgur/chapter/Eg6mJbq/"
          },
          "last_updated":"1621841979"
+         },
+      "7":{
+         "title":"Twilight",
+         "volume":"2",
+         "groups":{
+            "MangaFreak":"/proxy/api/imgur/chapter/Eg6mJbq/"
+         },
+         "last_updated":"1621842734"
          }
    }
 }
