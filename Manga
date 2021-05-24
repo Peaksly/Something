@@ -5,61 +5,13 @@
    "author":"Adachitoka",
    "cover":"https://images-na.ssl-images-amazon.com/images/I/51fFs6RzgKL._SX325_BO1,204,203,200_.jpg",
    "chapters":{
-      "1":{
-         "title":"People who wear Sportswear",
-         "volume":"1",
+      "90":{
+         "title":"A Necessary Meeting",
+         "volume":"23",
          "groups":{
-            "Manga Freak":"/proxy/api/imgur/chapter/ApPf6u0/"
+            "Manga Freak":"/proxy/api/imgur/chapter/u08rZcL/"
          },
-         "last_updated":"1621820429"
-      },
-      "2":{
-         "title":"House cats, Noragami and Tails",
-         "volume":"1",
-         "groups":{
-            "MangaFreak":"/proxy/api/imgur/chapter/lFsjF4X/"
-         },
-         "last_updated":"1621820429"
-      },
-      "3":{
-         "title":"Like Snow",
-         "volume":"1",
-         "groups":{
-            "MangaFreak":"/proxy/api/imgur/chapter/MLdgsus/"
-         },
-         "last_updated":"1621825972"
-      },
-      "4":{
-         "title":"Some Divine Will",
-         "volume":"2",
-         "groups":{
-            "MangaFreak":"/proxy/api/imgur/chapter/sNqJyB2/"
-         },
-         "last_updated":"1621828377"
-      },
-      "5":{
-         "title":"Boundary Line",
-         "volume":"2",
-         "groups":{
-            "MangaFreak":"/proxy/api/imgur/chapter/sSjp3Ce/"
-         },
-         "last_updated":"1621841463"
-      },  
-      "6":{
-         "title":"Scary Person",
-         "volume":"2",
-         "groups":{
-            "MangaFreak":"/proxy/api/imgur/chapter/Eg6mJbq/"
-         },
-         "last_updated":"1621841979"
-         },
-      "7":{
-         "title":"Twilight",
-         "volume":"2",
-         "groups":{
-            "MangaFreak":"/proxy/api/imgur/chapter/Eg6mJbq/"
-         },
-         "last_updated":"1621842734"
-         }
+         "last_updated":"1621843388"
+      }
    }
 }
