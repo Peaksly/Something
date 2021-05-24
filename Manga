@@ -1,33 +1,33 @@
 {
-  "title": "Noragami",
-  "description": "The series follows a poor deity named Yato, who desires to become a famous god, and his adventures with a human girl named Hiyori, whose spirit frequently leaves her body, and Yukine, a young wandering spirit whom he adopts as his weapon.",
-  "artist": "Adachitoka",
-  "author": "Adachitoka",
-  "cover": "https://images-na.ssl-images-amazon.com/images/I/51fFs6RzgKL._SX325_BO1,204,203,200_.jpg",
-  "chapters": {
-    "1": {
-      "title": "People who wear Sportswear",
-      "volume": "1",
-      "groups": {
-        "Manga Freak": "/proxy/api/imgur/chapter/ApPf6u0/"
+   "title":"Noragami",
+   "description":"The series follows a poor deity named Yato, who desires to become a famous god, and his adventures with a human girl named Hiyori, whose spirit frequently leaves her body, and Yukine, a young wandering spirit whom he adopts as his weapon.",
+   "artist":"Adachitoka",
+   "author":"Adachitoka",
+   "cover":"https://images-na.ssl-images-amazon.com/images/I/51fFs6RzgKL._SX325_BO1,204,203,200_.jpg",
+   "chapters":{
+      "1":{
+         "title":"People who wear Sportswear",
+         "volume":"1",
+         "groups":{
+            "Manga Freak":"/proxy/api/imgur/chapter/ApPf6u0/"
+         },
+         "last_updated":"1621820429"
       },
-      "last_updated": "1621820429"
-    },
-"2": {
-      "title": "House cats, Noragami and Tails",
-      "volume": "1",
-      "groups": {
-        "MangaFreak": "/proxy/api/imgur/chapter/lFsjF4X/"
+      "2":{
+         "title":"House cats, Noragami and Tails",
+         "volume":"1",
+         "groups":{
+            "MangaFreak":"/proxy/api/imgur/chapter/lFsjF4X/"
+         },
+         "last_updated":"1621820429"
       },
-      "last_updated": "1621820429"
-    },
-"3": {
-      "title": "Like Snow",
-      "volume": "1",
-      "groups": {
-        "MangaFreak": "/proxy/api/imgur/chapter/MLdgsus/"
-      },
-      "last_updated": "1621825972"
-   },
-  }
+      "3":{
+         "title":"Like Snow",
+         "volume":"1",
+         "groups":{
+            "MangaFreak":"/proxy/api/imgur/chapter/MLdgsus/"
+         },
+         "last_updated":"1621825972"
+      }
+   }
 }
