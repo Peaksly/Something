@@ -36,6 +36,14 @@
             "MangaFreak":"/proxy/api/imgur/chapter/sNqJyB2/"
          },
          "last_updated":"1621828377"
-      }
+      },
+      "5":{
+         "title":"Boundary Line",
+         "volume":"2",
+         "groups":{
+            "MangaFreak":"/proxy/api/imgur/chapter/sSjp3Ce/"
+         },
+         "last_updated":"1621841463"
+         }  
    }
 }
