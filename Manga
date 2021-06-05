@@ -12,6 +12,15 @@
             "Manga Freak":"/proxy/api/imgur/chapter/u08rZcL/"
          },
          "last_updated":"1621843388"
+        },
+        
+      "90.2":{
+         "title":"A Necessary Meeting",
+         "volume":"23",
+         "groups":{
+            "Fast Moon":"/proxy/api/imgur/chapter/MgxdR5V/"
+         },
+         "last_updated":"1622614745"
         }
       }
    }
