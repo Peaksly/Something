@@ -5,7 +5,7 @@
    "author":"Adachitoka",
    "cover":"https://images-na.ssl-images-amazon.com/images/I/51fFs6RzgKL._SX325_BO1,204,203,200_.jpg",
    "chapters":{
-        "90":{
+      "90":{
          "title":"A Necessary Meeting",
          "volume":"23",
          "groups":{
@@ -13,14 +13,29 @@
          },
          "last_updated":"1621843388"
         },
-      "91":{
-         "title":"A Necessary Meeting 2",
-         "volume":"24",
+      "90-2":{
+         "title":"A Necessary Meeting",
+         "volume":"23",
          "groups":{
             "Fast Moon":"/proxy/api/imgur/chapter/MgxdR5V/"
-                  },
+         },
          "last_updated":"1622614745"
-               }
-             }
- }
-
+        },
+      "91":{
+         "title":"To Do The Right Thing",
+         "volume":"23",
+         "groups":{
+            "Fast Moon":"/proxy/api/imgur/chapter/moJ98uq/"
+         },
+         "last_updated":"1622615343"
+        },
+      "94-2":{
+         "title":"Hope",
+         "volume":"24",
+         "groups":{
+            "Fast Moon":"/proxy/api/imgur/chapter/qAc5sK3/"
+         },
+         "last_updated":"1622864664" 
+        }
+      }
+   }
