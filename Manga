@@ -28,6 +28,14 @@
             "Fast Moon":"/proxy/api/imgur/chapter/moJ98uq/"
          },
          "last_updated":"1622615343"
+        },
+      "94-2":{
+         "title":"Hope",
+         "volume":"24",
+         "groups":{
+            "Fast Moon":"/proxy/api/imgur/chapter/qAc5sK3/"
+         },
+         "last_updated":"1622864664"
       }
    }
 }
